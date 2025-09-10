@@ -1,7 +1,8 @@
-# CAN201 (2025) - Networking Mind Maps
+# CAN201 Introduction to Networking (2025) - Networking Mind Maps
 
 This repository contains **mind maps** for the 2025 CAN201 course.  
 The aim is to transform each lecture’s content into a clear, structured, and visual **mind map**, making it easier to learn, review, and teach networking concepts.
+
 
 ## 📌 Project Plan
 - Each lecture of CAN201 will be summarized as a **mind map**.
